@@ -1,0 +1,53 @@
+
+.home-page{
+    background-color: hsl(138, 81%, 34%);
+}
+.assignment1{
+    background-color:rgb(206, 206, 94);
+}
+.assignment2{
+    background-color:violet;
+}
+#navigation ul{
+list-style-type: none;
+word-spacing: 10pt;
+}
+
+a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+    color: yellow 92, 92, 88;
+    background-size: 10pt;
+    background-color: slategray;
+    padding: 10pt;
+}
+
+h1{
+    background-color: turquoise;
+}
+
+a:hover{
+    color:white;
+    background-color: red;
+}
+.containor{
+    display: flex;
+}
+.Box1{
+    flex: 1;
+    order: 1;
+    height: 400pt;
+    width: auto;
+    background-image: url(05.jpg);
+    background-size: cover;
+    flex-basis:30%;
+    align-self: flex-start;
+
+}
+.Box2{
+    flex:1;
+    order:2;
+
+    flex-basis:70%
+}
