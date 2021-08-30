@@ -16,7 +16,10 @@ word-spacing: 10pt;
 
 p
 {
-    style="color: red; padding: 100pt;padding-top: 10pt;padding-bottom: 10pt; "
+    color: red; 
+    padding: 100pt;
+    padding-top: 10pt;
+    padding-bottom: 10pt; 
 }
 a{
     text-decoration: none;
