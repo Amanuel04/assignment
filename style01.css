@@ -51,11 +51,12 @@ a:hover{
     background-size: cover;
     flex-basis:30%;
     align-self: flex-start;
+    position: fixed;
 
 }
 .Box2{
     flex:1;
     order:2;
-
-    flex-basis:70%
+    padding-left: 25%;
+    flex-basis:70%;
 }
